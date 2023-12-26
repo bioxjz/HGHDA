@@ -11,7 +11,7 @@ Dual-channel hypergraph convolutional network for predicting herb-disease associ
    - cold_start file is the result of a cold-start experiment
    - result file is the result of the model and comparison algorithm
 ## &#x1F4C3;Dataset
-Original data can be viewed by clicking on zenodo [here](https://zenodo.org/records/10033146)
+Original data can be viewed by clicking on zenodo [here](https://zenodo.org/records/10432947)
 ## 🚀 Installation
 
 Installation of the project runtime environment，First you can create a virtual environment for the project:
