@@ -51,7 +51,7 @@ The model can be configured via HGHDA.conf in the src folder
    - Please refer the code of SMGCL [here](https://github.com/Jcmorz/SMGCL)
    - Please refer the code of MilGNet [here](https://github.com/gu-yaowen/MilGNet)
    - Please refer the code of LHGCE [here](https://github.com/shahinghasemi/LHGCE)
-   - Please refer the code of HGNNLDA [herr](https://github.com/dayunliu/HGNNLDA/tree/main)
+   - Please refer the code of HGNNLDA [here](https://github.com/dayunliu/HGNNLDA/tree/main)
 2. For the HTInet algorithm, we performed a simple replication of it, using herb-component, component-target, and target-disease association data in experiments. For SMGCL, we use the similarity of effective components to obtain the similarity of herbs and the similarity of targets to obtain the similarity of diseases as their inputs.
 3. With respect to the parameter settings involved in running these algorithms, we either explicitly adopted the default settings recommended by their publications or set their associated parameters to the same or similar values as HGHDA.
 ## ⚖️ License
